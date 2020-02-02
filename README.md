@@ -5,6 +5,8 @@ Write a password generator in Python. Strong passwords have a mix of the followi
  - uppercase letters
  - numbers
  - symbols
+ - must start with a letter (uppercase or lowercase)
+ - 8 character long
 
 The passwords should be random. It should generate a new password every time the user asks for a new password.
 
